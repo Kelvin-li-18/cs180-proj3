@@ -103,7 +103,7 @@ function App() {
       ]
     },
     {
-      id: 'mean-face',
+      id: 'mean-face-section',
       title: 'Mean Face',
       sections: [
         {
@@ -166,7 +166,7 @@ function App() {
       title: 'Principal Component Analysis',
       sections: [
         {
-          id: 'pca',
+          id: 'rationale',
           title: 'Rationale',
           content: [
             { 
